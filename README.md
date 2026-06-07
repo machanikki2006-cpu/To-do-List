@@ -58,6 +58,4 @@ No build tools or dependencies required.
 | Delete a task | Click the **×** icon on the right |
 | Data persistence | Tasks are saved to `localStorage` automatically |
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
