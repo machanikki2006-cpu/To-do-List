@@ -37,9 +37,8 @@ No build tools or dependencies required.
 
 2. **Open in your browser**
    ```bash
-   open index.html
+   https://machanikki2006-cpu.github.io/To-do-List/
    ```
-   Or simply double-click `index.html` in your file explorer.
 
 ## 🧰 Built With
 
