@@ -32,8 +32,7 @@ No build tools or dependencies required.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
-   cd to-do-list
+   git clone https://github.com/machanikki2006-cpu/To-do-List.git
    ```
 
 2. **Open in your browser**
