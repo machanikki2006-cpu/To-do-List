@@ -1,6 +1,6 @@
 # ✅ To-Do List App
 
-A clean, minimal to-do list web app built with vanilla HTML, CSS, and JavaScript. Tasks are saved to `localStorage` so they persist across browser sessions.
+A clean and responsive To-Do List web app built using HTML, CSS, and JavaScript with persistent task storage using localStorage.
 
 ## 🖼️ Preview
 
